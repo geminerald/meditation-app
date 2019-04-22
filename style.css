@@ -85,6 +85,9 @@ video {
     padding:30px;
     
 }
+.sound-picker button:hover{
+    background:#fafafa;
+}
 
 .sound-picker button:nth-child(1) {
     background: #4972a1;
